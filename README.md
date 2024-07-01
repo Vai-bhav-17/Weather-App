@@ -29,10 +29,6 @@ WeatherApp is a web application that fetches and displays real-time weather data
 2. Press Enter or click on the search button to fetch weather data.
 3. View the current weather conditions for the specified city.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
